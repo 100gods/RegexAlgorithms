@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #Given a line of text which possibly contains the latitude and longitude of a point, can you use regular expressions to identify the latitude and longitude referred to (if any)?
 import re;
 n=int(raw_input().strip())
